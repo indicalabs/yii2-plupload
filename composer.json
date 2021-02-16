@@ -12,11 +12,11 @@
         }
     ],
 	"require": {
-		"yiisoft/yii2": ">=2.0.13.1",
+		"yiisoft/yii2": "2.0.40",
 	    "npm-asset/plupload": ">=2.3.6"
 	},
     "require-dev": {
-    	"phpunit/phpunit": "7.0.0"
+    	"phpunit/phpunit": "9.5.2"
  	 },
  	 
     "autoload": {
